@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Practical_6.1_TrackMySleepQuality-Starter.iml" filepath="$PROJECT_DIR$/Practical_6.1_TrackMySleepQuality-Starter.iml" group="Practical_6.1_TrackMySleepQuality-Starter" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Practical_6.1_TrackMySleepQuality-Starter/app" />
+    </modules>
+  </component>
+</project>
